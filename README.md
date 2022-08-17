@@ -1,4 +1,4 @@
-# Personal Website AWS
+# personal-website-aws
 
 ## Front End Development: Building & Hosting Personal Website
 Personal website written in HTML/CSS & JavaScript and hosted on GitHub page. 
